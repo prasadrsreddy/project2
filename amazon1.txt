@@ -1,0 +1,7 @@
+laptop = 50000
+wallet = 45000
+
+if laptop >= wallet:
+ print ("your are eligible for buy a laptop")
+else:
+ print ("your are not eligible for buy a laptp")
