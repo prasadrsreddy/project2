@@ -1,0 +1,22 @@
+name =[a,b,c,d,e,f]
+
+# 1 = 'a'
+# 2 = 'b'
+# 3 = 'c'
+# 4 = 'd'
+# 5 = 'e'
+# 6 = 'f'
+
+if name == 'a':
+  print (1)
+elif name == 'b':
+ print (2)
+elif name == 'c':
+ print (3)
+elif name == 'd':
+ print (4)
+elif name == 'e':
+ print (5)
+else:
+  print (6)
+
